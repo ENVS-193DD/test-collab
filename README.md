@@ -10,4 +10,12 @@ adding a note from local computer
 
 # adding another header
 
+```
+.
+├── README.md
+├── files
+│   └── new-script.R
+└── test-collab.Rproj
+```
+
 # another one
